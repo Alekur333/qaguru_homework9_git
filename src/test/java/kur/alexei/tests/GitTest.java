@@ -13,7 +13,7 @@ public class GitTest {
         // commit 1
         // commit 2
         // commit 3
-        java.util.List<String> strings = List.of(listInList);
+        List<String> strings = List.of(listInList);
         System.out.println(strings);
 
 
