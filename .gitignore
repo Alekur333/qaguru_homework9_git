@@ -25,6 +25,7 @@
 .allure/
 .gradle/
 allure-results/
+!gradle/wrapper/
 gradle/
 build/
 bin/
